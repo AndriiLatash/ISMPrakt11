@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp8
 {
-    class Train : Transport
+    public class Train : Transport
     {
 
         public double NumberOfWagons { get; set; }
